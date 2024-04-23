@@ -1,0 +1,49 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  background: rgb(164, 239, 235);
+}
+
+.container {
+  background: white;
+  border-radius: 10px;
+  display: flex;
+  border: 1px solid red;
+  padding: 20px;
+  width: 800px;
+}
+
+.column1 {
+  
+}
+
+.bill {
+  border: 1px solid hotpink;
+}
+
+h4 {
+  margin: 0;
+  text-align: start;
+}
+
+.bill-input {
+
+}
+
+input {
+  background: rgb(221, 242, 240);
+}
+
+.tip-container {
+  background: rgb(6, 73, 70);
+}
+
+
+.column2 {
+  border: 1px solid blue;
+}
